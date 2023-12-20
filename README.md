@@ -40,27 +40,17 @@ The quiz icon looks like this:
 
 <img src="https://curriculum-content.s3.amazonaws.com/data-science/images/quiz.png/quiz.png" width=70>
 
-## Assignments: Meet SaturnCloud.
+## Assignments: Meet Google's Colab.
 
-With any assignment that you open, this is what you'll see:
+With any assignment within Canvas that you open, you'll see something like this:
 
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/SC_SC_01.png/SC_SC_01.png" width=500>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/OpenInColab.png/OpenInColab.png" width=700 alt="Open in Colab">
 
-In order to go to the assignment, you need to load the assignment in a new window by clicking on the grey bar:
+In order to go to the assignment, you need to load the assignment in a new window by clicking on the **Open in Colab** icon. This will take you take you to Colab to work in a *Jupyter Notebook*, a document-like application that allows you to do live coding. In other words, Colab will automatically open the .ipynb file in a Jupyter Notebook.
 
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/SC_SC_02.png/SC_SC_02.png" width=500>
+This is what a Jupyter Notebook looks like. 
 
-Clicking on the grey bar will take you into Saturn Cloud to work on a **Jupyter Notebook**, a document-like application that allows you to do live coding.
-
-The first time you spin up the server for your current session, you'll need to wait about 30 - 45 seconds. While you wait, you'll see this.
-
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/SC_SC_03.png/SC_SC_03.png" width=500>
-
-Once you have connected to the server, or if you already are connected to it, then this is what a Jupyter Notebook looks like. Saturn Cloud will automatically open the .ipynb file in a Jupyter Notebook.
-
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/SC_SC_04.png/SC_SC_04.png" width=500>
-
-Note: You can see that you are running on Saturn's server with Python 3.
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/YourFirstJupyterNotebook.png/YourFirstJupyterNotebook.png" width=800 alt="Colab with a python notebook">
 
 ## Lab Solutions
 
@@ -68,13 +58,13 @@ We provide solutions for each Lab to help you get unstuck when all else fails. L
 
 **Be careful about when & how you use these.** You may be tempted to go look at the solution immediately when you don't know what to do or your code isn't working.  You won't always be able to look up a correct solution to problems you encounter during a technical interview or on the job, so don't let yourself fall into the habit.
 
-To access a Lab solution, click the GitHub icon to go to the Lab's GitHub repository.
+To access a Lab solution, click the GitHub "octocat" icon to go to the Lab's GitHub repository.
 
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/SC_SC_05.png/SC_SC_05.png" width=500>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/StringsLabGH.png/StringsLabGH.png" width=700 alt="Github octocat highlighted">
 
 From the GitHub repository, click the branch dropdown to switch to the `solution` branch.
 
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/github_branches.png/github_branches.png" width=500>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/github_branches.png/github_branches.png" width=700>
 
 
 Great - enough _talking_, let's dive right into your first Jupyter Notebook in the next Assignment.
